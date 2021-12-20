@@ -30,6 +30,7 @@ project(NovusCore VERSION 1.0.0)
 # CMake >= 3.12
 cmake_minimum_required(VERSION 3.12)
 
+set (PROJECTNAME_ARCHITECTURE "x64")
 set(CMAKE_DISABLE_SOURCE_CHANGES ON)
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 set(CMAKE_CONFIGURATION_TYPES Debug Release RelWithDebInfo CACHE STRING "" FORCE)
@@ -37,7 +38,9 @@ set(NOVUSCORE_SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 set(NOVUSCORE_BUILD_DIR ${CMAKE_CURRENT_BINARY_DIR})
 set(COMMON_ROOT "NovusCore/NovusCore-Common")
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_CURRENT_SOURCE_DIR}/${COMMON_ROOT}/cmake/modules")
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /experimental:module ")
+
 
 include(${COMMON_ROOT}/cmake/Configuration.cmake)
 include(${COMMON_ROOT}/cmake/FindFiles.cmake)

@@ -38,3 +38,15 @@ CMakeSettings.json
 
 # Exceptions
 !projects/client-demo/Data/**/*.obj
+NovusCore-Server.sln
+NovusCore-Server.vcxproj
+NovusCore-Server.vcxproj.filters
+NovusCore-Server.vcxproj.user
+cmake-gui.exe - Shortcut.lnk
+Debug/NovusCore-Server.tlog/CL.command.1.tlog
+Debug/NovusCore-Server.tlog/CL.read.1.tlog
+Debug/NovusCore-Server.tlog/CL.write.1.tlog
+Debug/NovusCore-Server.tlog/NovusCore-Server.lastbuildstate
+Debug/NovusCore-Server.tlog/unsuccessfulbuild
+Debug/NovusCore-Server.log
+Debug/vc142.pdb
