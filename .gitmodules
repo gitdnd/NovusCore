@@ -1,30 +1,30 @@
 [submodule "NovusCore/NovusCore-Common"]
 	path = NovusCore/NovusCore-Common
-	url = https://github.com/novuscore/NovusCore-Common.git
+	url = https://github.com/gitdnd/NovusCore-Common.git
 [submodule "NovusCore/NovusCore-Client"]
 	path = NovusCore/NovusCore-Client
-	url = https://github.com/novuscore/NovusCore-Client.git
+	url = https://github.com/gitdnd/NovusCore-Client.git
 [submodule "NovusCore/NovusCore-Tools"]
 	path = NovusCore/NovusCore-Tools
-	url = https://github.com/novuscore/NovusCore-Tools.git
+	url = https://github.com/gitdnd/NovusCore-Tools.git
 [submodule "NovusCore/NovusCore-AuthMaster"]
 	path = NovusCore/NovusCore-AuthMaster
-	url = https://github.com/novuscore/NovusCore-AuthMaster.git
+	url = https://github.com/gitdnd/NovusCore-AuthMaster.git
 [submodule "NovusCore/NovusCore-Service"]
 	path = NovusCore/NovusCore-Service
-	url = https://github.com/novuscore/NovusCore-Service.git
+	url = https://github.com/gitdnd/NovusCore-Service.git
 [submodule "NovusCore/NovusCore-Auth"]
 	path = NovusCore/NovusCore-Auth
-	url = https://github.com/novuscore/NovusCore-Auth.git
+	url = https://github.com/gitdnd/NovusCore-Auth.git
 [submodule "NovusCore/NovusCore-Region"]
 	path = NovusCore/NovusCore-Region
-	url = https://github.com/novuscore/NovusCore-Region.git
+	url = https://github.com/gitdnd/NovusCore-Region.git
 [submodule "NovusCore/NovusCore-LoadBalancer"]
 	path = NovusCore/NovusCore-LoadBalancer
-	url = https://github.com/novuscore/NovusCore-LoadBalancer.git
+	url = https://github.com/gitdnd/NovusCore-LoadBalancer.git
 [submodule "NovusCore/NovusCore-Gameplay"]
 	path = NovusCore/NovusCore-Gameplay
-	url = https://github.com/novuscore/NovusCore-Gameplay.git
+	url = https://github.com/gitdnd/NovusCore-Gameplay.git
 [submodule "NovusCore/NovusCore-World"]
 	path = NovusCore/NovusCore-World
-	url = https://github.com/novuscore/NovusCore-World.git
+	url = https://github.com/gitdnd/NovusCore-World.git
